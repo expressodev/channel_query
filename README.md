@@ -1,0 +1,1 @@
+system/expressionengine/third_party/channel_query/README.md
